@@ -1,0 +1,13 @@
+////////////////////////////////////////////////////////////////////////////////
+/// @file    main.h
+/// @brief   IOX replacement for USER/main.h (included by the reused uart.c).
+////////////////////////////////////////////////////////////////////////////////
+#ifndef __MAIN_H
+#define __MAIN_H
+
+#include <string.h>
+#include "mm32_device.h"
+#include "hal_conf.h"
+#include "device_config.h"
+
+#endif

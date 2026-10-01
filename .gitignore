@@ -1,0 +1,5 @@
+**/OBJ/
+*.uvguix.*
+__pycache__/
+*.pyc
+EventRecorderStub.scvd
